@@ -1,7 +1,8 @@
 {
-  "name": "junittester",
+  "name": "gulp-training",
   "version": "0.0.0",
-  "description": "J Unit Tester Using tools",
+  "repository" : "https://github.com/sridhar-sivaraman/gulp-training.git",
+  "description": "This is a tutorial on how to write unit test with gulp and mocha js",
   "author": "Sridhar",
   "dependencies": {
     "chai": "^3.3.0",
