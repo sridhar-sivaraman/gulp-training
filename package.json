@@ -1,0 +1,15 @@
+{
+  "name": "junittester",
+  "version": "0.0.0",
+  "description": "J Unit Tester Using tools",
+  "author": "Sridhar",
+  "dependencies": {
+    "chai": "^3.3.0",
+    "expect": "~1.11.1",
+    "gulp": "~3.9.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-mocha": "^2.1.3",
+    "run-sequence": "^1.1.4",
+    "sinon": "^1.17.1"
+  }
+}
