@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+### Gulp Training
 
-You can use the [editor on GitHub](https://github.com/sridhar-sivaraman/gulp-training/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a sample project to use the [gulp](https://gulpjs.com/) build tool.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Prerequesites:
+- [NodeJS](https://nodejs.org/en/)
+- [NPM](https://www.npmjs.com/)
 
-### Markdown
+#### How to run
+`npm build`
+`gulp`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Output
 
-```markdown
-Syntax highlighted code block
+```[13:51:54] Using gulpfile ~/../gulp-training/gulpfile.js
+[13:51:54] Starting 'check'...
+[13:51:54] Starting 'lint'...
+[13:51:54] Finished 'lint' after 140 ms
+[13:51:54] Starting 'test'...
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+  Palindrome Test Block
+    ✓ for palindrome
+    ✓ for non palindrome
+    ✓ handling of undefined value
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+  3 passing (6ms)
 
-[Link](url) and ![Image](src)
+[13:51:54] Finished 'test' after 35 ms
+[13:51:54] Finished 'check' after 177 ms
+[13:51:54] Starting 'default'...
+[13:51:54] Finished 'default' after 22 μs
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sridhar-sivaraman/gulp-training/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Support
+[contactus](sridharsinbox999@gmail.com)
