@@ -7,12 +7,15 @@ This is a sample project to use the [gulp](https://gulpjs.com/) build tool.
 - [NPM](https://www.npmjs.com/)
 
 #### How to run
-`npm build`
-`gulp`
+```
+npm build
+gulp
+```
 
 #### Output
 
-```[13:51:54] Using gulpfile ~/../gulp-training/gulpfile.js
+```
+[13:51:54] Using gulpfile ~/../gulp-training/gulpfile.js
 [13:51:54] Starting 'check'...
 [13:51:54] Starting 'lint'...
 [13:51:54] Finished 'lint' after 140 ms
